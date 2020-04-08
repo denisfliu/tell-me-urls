@@ -9,7 +9,7 @@ def test_urls(urls):
       "clientVersion": "1.5.2"
     },
     "threatInfo": {
-      "threatTypes":      ["MALWARE", "SOCIAL_ENGINEERING", "THREAT_TYPE_UNSPECIFIED", "POTENTIALLY_HARMFUL_APPLICATION", "UNWANTED_SOFTWARE"],
+      "threatTypes":      ["SOCIAL_ENGINEERING", "MALWARE", "THREAT_TYPE_UNSPECIFIED", "POTENTIALLY_HARMFUL_APPLICATION", "UNWANTED_SOFTWARE"],
       "platformTypes":    ["ANY_PLATFORM"],
       "threatEntryTypes": ["URL"],
       "threatEntries": [
