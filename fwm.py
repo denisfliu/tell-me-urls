@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#fraudelent website matcher
+#fraudulent website matcher
 
 import urlfinder
 import urlexpander
@@ -14,4 +14,4 @@ def check_website(url):
             break
     return status
 if __name__ == "__main__":
-    print(check_website("https://sonsoflibertymedia.com/category/featured-news/"))
+    print(check_website("https://bit.ly/3a0ttC9"))
